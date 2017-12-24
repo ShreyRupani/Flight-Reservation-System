@@ -1,0 +1,10 @@
+.SearchFlights {
+	display: flex;
+	justify-content: space-between;
+	width: 100%;
+}
+
+.SubmitButton {
+	height: 30px;
+	margin-left: 20px;
+}
